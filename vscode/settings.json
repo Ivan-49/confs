@@ -1,0 +1,71 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100
+    "liveServer.settings.donotShowInfoMsg": true,
+    "animations.Install-Method": "Custom CSS and JS",
+    "apc.imports": [],
+    "apc.activityBar": {
+
+    },
+    //шрифт
+    "apc.font.family": "Roboto",
+    "apc.menubar.compact": true,
+    "apc.monospace.font.family": "Roboto",
+
+    // тема и иконки
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows":true,
+    "workbench.tree.indent": 14,
+    "workbench.colorTheme": "Kanagawa Wave",
+
+    //относительные номера строк
+    "editor.lineNumbers":"relative",
+    // спрашивать перед удалением и/или перемещением
+    "explorer.confirmDelete": true,
+    "explorer.confirmDragAndDrop": true,
+
+    // убираем панель снизу
+    "workbench.statusBar.visible": false,
+
+    // убрать панель слева
+    "workbench.activityBar.location": "hidden",
+
+    // убираем панель управления окном
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    // "window.customTitleBarVisibility":"never",
+    // "window.titleBarStyle": "native",
+    // "window.menuBarVisibility": "toggle",
+
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "workbench.editor.showTabs": "single",
+
+    //TODO highlight settings
+    "todohighlight.isEnable": true,
+
+    // курсор
+    "editor.cursorBlinking": "solid",
+
+    // отключаю окно с помощью для новичков
+    "workbench.tips.enabled": false,
+
+    // отключение сворачивания кода
+    // "editor.showFoldingControls": "never",
+
+    // убрать лампочку с подсказками
+    "editor.lightbulb.enabled": "off",
+
+    //убрать показ сигнатуры 
+    // "editor.parameterHints.enabled": false,
+    // "editor.hover.enabled": false,
+    // "files.trimTrailingWhitespace": false,
+    // "editor.links": false,
+
+    
+    // отключить предложения устанаовить расширени
+    "extensions.ignoreRecommendations": true,
+    "vscode_custom_css.imports": [
+        "file:///c:/Users/remne/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+    ],
+}
